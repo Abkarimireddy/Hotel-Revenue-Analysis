@@ -48,5 +48,5 @@ The goal is to answer key business questions for stakeholders:
 
 ## 📂 How to Run
 1. Run the SQL scripts in `/SQL` to create database and tables.  
-2. Open `HotelRevenueDashboard.pbix` in Power BI.  
+2. Open `Hotel Revenue Analysis.pbix` in Power BI.  
 3. Connect to your SQL Server instance and refresh data.
